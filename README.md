@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Riya Gupta</h1>
-<h2 align="center">A passionate Frontend end developer from India</h2>
+<h2 align="center">A Passionate Web Developer from India</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyag30&label=Profile%20views&color=0e75b6&style=flat" alt="riyag30" /> </p>
 
