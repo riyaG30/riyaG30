@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **riya.rg3010@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v435jcqdLkkUmVTucg7Szale48j3XJZM/view?usp=share_link](https://drive.google.com/file/d/1v435jcqdLkkUmVTucg7Szale48j3XJZM/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1v435jcqdLkkUmVTucg7Szale48j3XJZM/view?usp=share_link](https://drive.google.com/file/d/1JSCWgxo3JUTYLGIejM44e76W0RxHQeoV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
